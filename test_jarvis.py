@@ -1,0 +1,3 @@
+import JARVIS
+
+JARVIS.start()

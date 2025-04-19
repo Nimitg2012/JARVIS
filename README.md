@@ -1,20 +1,43 @@
-# JARVIS
+# 🤖 JARVIS
 
-![Static Badge](https://img.shields.io/badge/license%2CMIT%2CBlue)
+**An AI-powered personal assistant built with Python**
 
-A Python-based assistant that can help with various tasks.
+---
 
-## Features
+## 📖 Overview
 
-- Task management
-- Automation
-- Integration with other services
+JARVIS is a voice-enabled AI assistant that can respond to your commands, search the internet, answer questions, and perform tasks — inspired by Tony Stark's iconic assistant.
 
-## Installation
+---
 
-To install, run:
+## 🚀 Features
+
+- 🌐 Voice interaction
+- 🔍 Web search & API integration
+- 🧠 AI-powered natural language understanding (using OpenAI GPT)
+- 🗂️ Modular design for easy customization
+- 💬 Text and voice outputs
+
+---
+
+## 📂 Project Structure
+JARVIS/ ├── JARVIS/ │ ├── init.py │ ├── assistant.py │ └── ... ├── tests/ ├── setup.py ├── requirements.txt ├── README.md └── jarvis-ai.py
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
 
 ```bash
-pip install jarvis
+git clone https://github.com/Nimitg2012/JARVIS.git
+cd JARVIS
+4. Save the file.  
+5. Commit and push the changes to GitHub:
+
+```bash
+git add README.md
+git commit -m "Updated README with setup instructions"
+git push origin main
+
 
 
